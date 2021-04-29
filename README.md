@@ -1,6 +1,4 @@
-![5](https://user-images.githubusercontent.com/81908211/116527955-df801100-a8f8-11eb-9a24-ba6fef0585f6.JPG)
-![3](https://user-images.githubusercontent.com/81908211/116527994-e9a20f80-a8f8-11eb-8054-ce8a39b5d106.JPG)
-![4](https://user-images.githubusercontent.com/81908211/116528011-ed359680-a8f8-11eb-8a9a-db4fb16539eb.JPG)
+
 # Sign-language-illustrator
 Sign language illustrator is based on concept of image processing. This proposed system is focused on reduce cost and improve robustness of the proposed system using simple web camera and neural networks to monitor and capture the patient’s gestures using image processing and computer vision so that it can help them to convey their thoughts and feelings
 
@@ -32,3 +30,8 @@ To Clone or download this repository :
 In CMD enter : git clone (url of repository)
 
 Note :please check for uninstalled libraries and updates
+
+RESULT:
+![5](https://user-images.githubusercontent.com/81908211/116527955-df801100-a8f8-11eb-9a24-ba6fef0585f6.JPG)
+![3](https://user-images.githubusercontent.com/81908211/116527994-e9a20f80-a8f8-11eb-8054-ce8a39b5d106.JPG)
+![4](https://user-images.githubusercontent.com/81908211/116528011-ed359680-a8f8-11eb-8a9a-db4fb16539eb.JPG)
