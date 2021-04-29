@@ -2,9 +2,13 @@
 Sign language illustrator is based on concept of image processing. This proposed system is focused on reduce cost and improve robustness of the proposed system using simple web camera and neural networks to monitor and capture the patient’s gestures using image processing and computer vision so that it can help them to convey their thoughts and feelings
 
 To Run this file :
+
 step 1: open and run collect data.py file and generate dataset (800-1000 images/alphabet for better accuracy)  
+
 step 2: open and run pre-processing.py this will pre-process your images captured 
+
 step 3: open and run train.py to train the pre processed dataset
+
 step 4: Atlast open and run app.py to run the GUI .
 
 Models:
