@@ -12,6 +12,7 @@ step 3: open and run train.py to train the pre processed dataset
 step 4: Atlast open and run app.py to run the GUI .
 
 Models:
+
 We have used 4 models:
 1. A-z alphabet
 2. T, K, D, and I letter
